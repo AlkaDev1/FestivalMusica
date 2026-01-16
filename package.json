@@ -1,0 +1,28 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS y NPM",
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Gulp"
+  ],
+  "homepage": "https://github.com/AlkaDev1/FestivalMusica#readme",
+  "bugs": {
+    "url": "https://github.com/AlkaDev1/FestivalMusica/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlkaDev1/FestivalMusica.git"
+  },
+  "license": "ISC",
+  "author": "AlkaDev jalcala5@ucol.mx",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "sass": "^1.97.2"
+  }
+}
